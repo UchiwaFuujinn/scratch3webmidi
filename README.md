@@ -4,7 +4,7 @@
 This extension is for using a MIDI device like a MIDI Controller through Scratch3. It's made by Web MIDI API. This API is one of the HTML5 functions defined by W3C.  
   
   
-Application page is [Web MIDI Scratch 3](https://masahirokakishita.github.io/scratch3webmidi/)  
+Application page is [Web MIDI Scratch 3](https://UchiwaFuujinn.github.io/scratch3webmidi/)  
   
   
 ### Reference
@@ -25,7 +25,7 @@ Before you try to use these extensions, you should connect a MIDI device to your
 
 ## Usage
 
-- Open Scratch 3 Editor from [here](https://masahirokakishita.github.io/scratch3webmidi/)
+- Open Scratch 3 Editor from [here](https://UchiwaFuujinn.github.io/scratch3webmidi/)
 - Push the under-left icon.
 
 ![alt](pict/webmidi003.jpg)
