@@ -1,4 +1,4 @@
-# Web MIDI Extension for Scratch3
+# Explanation for Scratch 3 MIDI
     
   
 This extension is for using a MIDI device like a MIDI Controller through Scratch3. It's made by Web MIDI API. This API is one of the HTML5 functions defined by W3C.  
